@@ -1,0 +1,12 @@
+*.log
+*.swp
+.env
+*.key
+*.pem
+*.vdi
+*.vhdx
+*.qcow2
+*.iso
+*.vmdk
+*.ova
+*.vbox-prev
